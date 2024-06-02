@@ -1,8 +1,8 @@
 ---
 permalink: /
 layout: home
-title: Welcome
+title: Welcome to My blog
 list_title: My blog
 ---
 
-# Blog test page
+
